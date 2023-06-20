@@ -10,7 +10,7 @@ Our team consisted of:
 
 We were selected as one of the three finalist and were asked to present our solution as Cloud Consultants. Anne and I presented on presentation night, you can watch our presentation [here](https://www.youtube.com/live/NfZMO393HnA?feature=share&t=898).
 
-You can find our slide deck [here](docs.google.com/presentation/d/1c-zm2PHUevwPB99Iab9z8qbT19zOWT66N3mdJXCnTyo/edit?usp=drive_link).
+You can find our slide deck [here](https://docs.google.com/presentation/d/1c-zm2PHUevwPB99Iab9z8qbT19zOWT66N3mdJXCnTyo/edit?usp=sharing).
 
 ## Feedback from the Instructor: 
 <ul>
